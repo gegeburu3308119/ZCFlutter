@@ -1,0 +1,44 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.1):
+    - Flutter
+    - xservice_kit
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - flutter_boost
+    - shared_preferences
+    - xservice_kit
+  - shared_preferences (0.0.1):
+    - Flutter
+  - xservice_kit (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `../flutter_module/.ios/Flutter/engine`)
+  - flutter_boost (from `../flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - FlutterPluginRegistrant (from `../flutter_module/.ios/Flutter/FlutterPluginRegistrant`)
+  - shared_preferences (from `../flutter_module/.ios/Flutter/.symlinks/shared_preferences/ios`)
+  - xservice_kit (from `../flutter_module/.ios/Flutter/.symlinks/xservice_kit/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../flutter_module/.ios/Flutter/engine"
+  flutter_boost:
+    :path: "../flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios"
+  FlutterPluginRegistrant:
+    :path: "../flutter_module/.ios/Flutter/FlutterPluginRegistrant"
+  shared_preferences:
+    :path: "../flutter_module/.ios/Flutter/.symlinks/shared_preferences/ios"
+  xservice_kit:
+    :path: "../flutter_module/.ios/Flutter/.symlinks/xservice_kit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_boost: 0e85ea37c74ed39ee7b91a35612afa1605557484
+  FlutterPluginRegistrant: f99e5341b0cb9b4e09424167e8a6494280887c34
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  xservice_kit: a2f1b35addc126fce8687aeb183ab0c1ada5b7f3
+
+PODFILE CHECKSUM: 7ed322f2b5072842b7c7f42442df365dae30e23f
+
+COCOAPODS: 1.7.5

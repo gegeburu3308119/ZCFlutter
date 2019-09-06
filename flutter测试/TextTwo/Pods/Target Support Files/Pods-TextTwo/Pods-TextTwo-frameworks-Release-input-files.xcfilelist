@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-TextTwo/Pods-TextTwo-frameworks.sh
+${PODS_ROOT}/../../flutter_module/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/FlutterPluginRegistrant/FlutterPluginRegistrant.framework
+${BUILT_PRODUCTS_DIR}/flutter_boost/flutter_boost.framework
+${BUILT_PRODUCTS_DIR}/shared_preferences/shared_preferences.framework
+${BUILT_PRODUCTS_DIR}/xservice_kit/xservice_kit.framework
