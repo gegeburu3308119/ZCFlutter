@@ -8,5 +8,5 @@ PODS_ROOT = ${SRCROOT}
 PODS_TARGET_SRCROOT = ${PODS_ROOT}/../../flutter_module/.ios/Flutter/.symlinks/flutter_boost/ios
 PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.${PRODUCT_NAME:rfc1034identifier}
 SKIP_INSTALL = YES
-#include "/Users/zhangcong/Desktop/flutter测试/flutter_module/.ios/Flutter/Generated.xcconfig"
-#include "/Users/zhangcong/Desktop/flutter测试/flutter_module/.ios/Flutter/Generated.xcconfig"
+#include "/Users/zhangcong/Desktop/flutter学习/flutter测试/flutter_module/.ios/Flutter/Generated.xcconfig"
+#include "/Users/zhangcong/Desktop/flutter学习/flutter测试/flutter_module/.ios/Flutter/Generated.xcconfig"

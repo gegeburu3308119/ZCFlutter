@@ -597,6 +597,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NYH5E2U8CK;
 				ENABLE_BITCODE = NO;
+				FLUTTER_APPLICATION_PATH = "/Users/zhangcong/Desktop/flutter学习/flutter测试/flutter_module";
 				INFOPLIST_FILE = TextTwo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -617,6 +618,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = NYH5E2U8CK;
 				ENABLE_BITCODE = NO;
+				FLUTTER_APPLICATION_PATH = "/Users/zhangcong/Desktop/flutter学习/flutter测试/flutter_module";
 				INFOPLIST_FILE = TextTwo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
