@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//附近模块
 class FujinMaiGuop extends StatelessWidget {
   List<Map> list = [{'url':'https://f10.baidu.com/it/u=2828659244,4239465633&fm=72','name':'五折封顶'},
     {'url':'https://f11.baidu.com/it/u=324257850,967749459&fm=72','name':'大牌甜品'},

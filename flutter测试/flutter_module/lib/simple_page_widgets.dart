@@ -86,7 +86,7 @@ class SecondRouteWidget extends StatelessWidget {
                         fit: BoxFit.fill, //图片适配方式
                       ),
                       onTap: () {
-                        FlutterBoost.singleton.closePageForContext(context);
+
                       },
                     );
                   },
